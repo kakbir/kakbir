@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kamil @kakbir
+- 👋 Hi, I’m Kamil Demirci @kakbir
 - 👀 I’m interested in web developer
 
 
